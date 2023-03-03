@@ -1,2 +1,2 @@
-# pop_up_rstudio
+# studys_in_R
 Directory created to studys in Rstudio.
